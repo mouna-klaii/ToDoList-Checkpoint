@@ -1,0 +1,33 @@
+
+.cardHeader {
+    display: flex;
+    justify-content: space-between;
+    justify-content: center;
+
+   
+}
+
+.cardHeader Button {
+    width: 60px;
+    height: 40px;
+    font-size: 11px;
+}
+
+.thecard {
+    margin: 5px 6px;
+}
+
+.cont {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background: #F7C8E0;
+    height: 100%;
+
+}
+
+
+.sbar {
+    margin-top: 10px;
+}
